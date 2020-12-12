@@ -1,0 +1,1 @@
+Este repositorio desallorada la aplicación ecm del repositorio ecm(https://github.com/xroigmartin/ECM) pero utilizando python y con el framework Flask
